@@ -2,7 +2,7 @@
     "routes": [
         {
             "route": "/authenticated/*",
-            "allowedRoles": [ "authenticated" ]
+            "allowedRoles": [ "Reader" ]
         }
     ],
     "auth": {
